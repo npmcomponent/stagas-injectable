@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var fan = require('fan');
+var fan = require('stagas-fan');
 
 /**
  * Create an injectable using `context`.

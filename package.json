@@ -1,0 +1,12 @@
+{
+  "name": "stagas-injectable",
+  "description": "dependency injection",
+  "version": "0.1.0",
+  "keywords": [
+    "dependency injection"
+  ],
+  "dependencies": {
+    "stagas-fan": "git://github.com/npmcomponent/stagas-fan.git"
+  },
+  "license": "MIT"
+}
